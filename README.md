@@ -30,23 +30,12 @@ Visit the deployed application at [https://ezquiz.netlify.app](https://ezquiz.ne
 
 If you want to run this application locally or contribute to its development, follow these steps:
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/PawaseBB/ezquiz.git
-   ```
+1. Open the `index.html` file in your web browser to view the application locally.
 
-2. Navigate to the project directory:
+2. Make changes to the HTML, CSS, or JavaScript files as needed.
 
-   ```bash
-   cd ezquiz
-   ```
-
-3. Open the `index.html` file in your web browser to view the application locally.
-
-4. Make changes to the HTML, CSS, or JavaScript files as needed.
-
-5. To deploy your updated application, consider using a platform like Netlify or GitHub Pages.
+3. To deploy your updated application, consider using a platform like Netlify or GitHub Pages.
 
 ## Contributing
 
